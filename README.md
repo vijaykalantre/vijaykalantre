@@ -1,7 +1,7 @@
 <!-- ===================== COVER PAGE ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Vijay%20Kalantre&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20UI%2FUX%20Designer&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Vijay%20Kalantre&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descAlignY=55&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Analytics+Meets+UI%2FUX+Design;Building+Dashboards+That+Drive+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Driven+Decision+Making;Building+Dashboards+That+Drive+Business" />
 </p>
-
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
   Hi 👋, I'm <span style="color:#4CAF50;">Vijay Kalantre</span>
