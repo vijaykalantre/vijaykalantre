@@ -82,31 +82,29 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="160"/>
-</p>
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
-</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45" />
   </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="45" height="45" />
   </a>
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/917378534650" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="45" height="45" />
   </a>
 </p>
 
