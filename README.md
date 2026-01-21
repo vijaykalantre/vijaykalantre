@@ -6,7 +6,7 @@
 
 <p align="center">
   <b style="color:#36BCF7;">📧 Email:</b> vijaykalantre10@gmail.com &nbsp; | &nbsp;
-  <b style="color:#36BCF7;">📞 Phone:</b> 7378534650
+  <b style="color:#36BCF7;">📞 Phone:</b> +91 7378534650
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </h1>
 
 <h3 align="center">
-  📊 Data Analyst | 🎨 UI/UX Designer | 📈 Business Intelligence Enthusiast
+  📊 Data Analyst | 🗄️ SQL Developer | 🎨 UI/UX Designer
 </h3>
 
 <p align="center">
